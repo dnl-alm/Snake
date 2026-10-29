@@ -6,7 +6,7 @@ A cobra anda sozinha por uma grade. Coma a comida vermelha para crescer e marcar
 
 ## Captura de tela
 
-![Snake rodando](docs/snake.png)
+<img src="docs/snake.png" alt="Snake rodando" width="600">
 
 ## Controles
 
